@@ -38,6 +38,8 @@
 *.out
 *.app
 
+configs/
+*.rar
 # Build directories
 [Bb]uild/
 [Bb]uild-*/
